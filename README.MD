@@ -1,4 +1,4 @@
-﻿# AppMan Node.js Test
+﻿# Node.js Test
 
 ### Problem 01
 
